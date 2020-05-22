@@ -10,6 +10,8 @@ public class Node {
     }
 
     public void printNode(){
-        System.out.println(data);
+        System.out.println("element: "+this);
+        System.out.println("left child: "+left);
+        System.out.println("left child: "+right);
     }
 }
