@@ -1,4 +1,4 @@
 
 # TreeApp - Binary Search Tree
-implementation of Heaps
+implementation of Binary Search Tree
 
